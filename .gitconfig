@@ -1,1 +1,13 @@
-/Users/kimberleycook/Dropbox/Mackup/.gitconfig
+/Users/kimberleycook/Dro# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = Kimberley Cook
+#	email = kimberleycook91@gmail.com
+[user]
+	name = Kimberley Cook
+	email = kimberleycook91@gmail.com
+[push]
+	default = upstream
+[rerere]
+	enabled = true
+pbox/Mackup/.gitconfig
