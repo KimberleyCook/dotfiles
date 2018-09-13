@@ -1,0 +1,27 @@
+tap 'caskroom/cask'
+tap 'homebrew/versions'
+
+brew 'zsh'
+brew 'flow'
+brew 'nvm' # node version manager
+brew 'postgresql'
+brew 'ruby-build'
+brew 'rbenv'
+brew 'rbenv-default-gems'
+brew 'tree'
+
+cask '1password'
+cask 'caffeine'
+cask 'zoomus'
+cask 'dropbox'
+cask 'recordit'
+cask 'duet'
+cask 'google-chrome'
+cask 'imageoptim'
+cask 'iterm2'
+cask 'react-native-debugger'
+
+
+cask 'spotify'
+cask 'skype'
+cask 'steam'
